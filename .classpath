@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="mason">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/usr/lib/jvm/j3d/lib/i386"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libraries/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="libraries/itext-1.2.jar"/>
+	<classpathentry kind="lib" path="libraries/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="libraries/jcommon-1.0.21.jar"/>
+	<classpathentry kind="lib" path="libraries/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="libraries/jfreechart-1.0.17.jar"/>
+	<classpathentry kind="lib" path="libraries/jmf.jar"/>
+	<classpathentry kind="lib" path="libraries/jts-1.8.jar"/>
+	<classpathentry kind="lib" path="libraries/portfolio.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Java3D"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
